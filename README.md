@@ -15,10 +15,10 @@ STALZONE использует две отдельные папки для опр
 
 ### 1. Скачайте скрипт
 
-Клонируйте репозиторий или скачайте `swap_servers.bat` напрямую:
+Клонируйте репозиторий или скачайте `swapper.bat` напрямую:
 
 ```bash
-git clone https://github.com/your-username/stalzone-server-swapper.git
+git clone https://github.com/UnhappyDorothy/STALZONE_Server_Swapper
 ```
 ### 2. Поместите скрипт в папку с игрой
 Скопируйте swap_servers.bat в директорию игры STALZONE: C:\Program Files (x86)\Steam\steamapps\common\STALZONE\
