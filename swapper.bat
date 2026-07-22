@@ -1,6 +1,4 @@
 @echo off
-title Swap folders bin_global ^<-> bin_ru
-cd /d "%~dp0"
 
 echo ========================================
 echo   Swap folders bin_global and bin_ru
