@@ -22,3 +22,9 @@ git clone https://github.com/your-username/stalzone-server-swapper.git
 ```
 ### 2. Поместите скрипт в папку с игрой
 Скопируйте swap_servers.bat в директорию игры STALZONE: C:\Program Files (x86)\Steam\steamapps\common\STALZONE\
+
+### 3. Запустите перед началом игры
+Дважды кликните по swap_servers.bat перед запуском STALZONE через Steam.
+
+### 4. Запустите игру
+После завершения обмена запустите STALZONE как обычно через Steam. Игра будет использовать серверы из активной папки.
